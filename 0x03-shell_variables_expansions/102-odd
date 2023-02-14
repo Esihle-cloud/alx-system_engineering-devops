@@ -1,2 +1,2 @@
-#!/in/bash
+#!/bin/bash
 past -d,- - | cut -d, -f1
