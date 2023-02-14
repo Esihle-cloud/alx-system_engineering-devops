@@ -1,0 +1,2 @@
+#!/bin/bals 
+ls -la > ls_cwd_content
